@@ -60,7 +60,7 @@ O fluxo de trabalho principal (`projetoFase02.ows`) realiza:
 
 ## Capturas de Tela
 
-### Distribuição de Chegadas por País
+### Distribuição de Chegadas por Estado brasileiro
 ![Distributions](./github/screenshots/distributions.png)
 
 ### Fluxo de Trabalho no Orange
