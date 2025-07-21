@@ -18,7 +18,7 @@ Este projeto utiliza a plataforma Orange Data Mining para analisar dados sobre a
 
 2. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/turismo-brasil.git
+   git clone https://github.com/FelipeZag0/projeto-turismo.git
    ```
 
 3. **Execute o fluxo de trabalho**:
